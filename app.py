@@ -29,7 +29,7 @@ def extract_ingredients_with_llama3(user_query):
     return ingredients, processed_query
 
 def get_recipes(ingredients):
-    querystring = {"q": ','.join(ingredients), "from": "0", "size": "10"}
+    querystring = {"q": ','.join(ingredients), "from": "0", "size": "5"}
     headers = {
         "x-rapidapi-key": TASTY_API_KEY,
         "x-rapidapi-host": TASTY_API_HOST
