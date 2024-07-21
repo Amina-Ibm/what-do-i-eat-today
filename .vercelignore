@@ -1,0 +1,11 @@
+# .vercelignore
+.git/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+node_modules/
+recipes/  # Exclude the recipes directory if not needed for the function to run
+tests/
+*.md
+.env  # Make sure to exclude any environment files
