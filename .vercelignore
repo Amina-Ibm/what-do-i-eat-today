@@ -9,4 +9,47 @@ recipes/  # Exclude the recipes directory if not needed for the function to run
 tests/
 *.md
 .env  # Make sure to exclude any environment files
-.manylinux2014_x86_64.whl
+*.manylinux2014_x86_64.whl
+numpy
+pandas
+.manylinux_2_28_x86_64.whl
+.eslintrc.js
+.eslintignore
+.prettierrc
+.prettierignore
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Exclude build artifacts and distribution files
+build/
+dist/
+*.egg-info/
+*.whl
+
+# Exclude temporary and cache files
+.cache/
+
+# Exclude test files and coverage reports
+tests/
+coverage/
+
+# Exclude documentation files
+docs/
+api-docs/
+
+# Exclude IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Exclude backup and temporary files
+*~
+*.bak
+*.tmp
+
+# Exclude metadata files
+*.metadata
+
+
