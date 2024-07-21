@@ -9,3 +9,4 @@ recipes/  # Exclude the recipes directory if not needed for the function to run
 tests/
 *.md
 .env  # Make sure to exclude any environment files
+.manylinux2014_x86_64.whl
