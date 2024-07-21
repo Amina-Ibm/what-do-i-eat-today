@@ -1,0 +1,16 @@
+Name: One Bowl Chocolate Chip Banana Bread
+Description: We’ve all been baking <a href="https://tasty.co/recipe/banana-bread">banana bread</a> lately, right? It’s been good, but it’s gotten, well, just a tad routine. In fact, it’s probably making you go just a liiiittle bananas yourself! So it’s time to sweeten the deal: this chocolate chip banana bread recipe combines two of your favorite things into one – now, you can have your chocolate and eat it, too! (Or try a healthier spin on this classic treat with our delicious <a href="https://tasty.co/recipe/healthy-blueberry-banana-bread">blueberry banana bread recipe</a>.) 
+
+Image URL: https://img.buzzfeed.com/thumbnailer-prod-us-east-1/55ac7efd43d74a6ead6576b4bfb28d7e/FB_Syphus_BananaBread_v3.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/2bd2a73e20c84c6082f8821275ed154c/FB_Syphus_BananaBread_v3.mp4
+Image Alt Text: 
+Prep Time Minutes: 10
+Yields: Servings: 6-8
+Calories: 379
+Instruction 1: Preheat oven to 350˚F (180˚C).
+Instruction 2: In a bowl, add the bananas and mash until smooth. Add in the melted butter and stir until well combined.
+Instruction 3: Add the sugar, egg, vanilla, baking soda, salt, and flour, and stir until the batter is smooth.
+Instruction 4: Add in the chocolate chips and pour the batter into a greased loaf pan. Top with additional chocolate chips.
+Instruction 5: Bake for 50 minutes to an hour, or until a toothpick comes out clean.
+Instruction 6: Cool completely before serving.
+Instruction 7: Enjoy!

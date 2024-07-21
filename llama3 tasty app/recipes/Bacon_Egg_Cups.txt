@@ -1,0 +1,15 @@
+Name: Bacon Egg Cups
+Description: Bacon egg cups are a delicious and protein-rich breakfast option. Eggs and cheddar cheese are scrambled and placed into bacon-wrapped muffin cups.
+Image URL: https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4f85dfeffcc54b8b800124d6fbf69da9/BFV17497_StrawberryShortcakePancakeBreakfastInBed-FB1080SQ_MothersDay_H264.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/8b50b645b70346e88d85399abaf9cf58/BFV17497_StrawberryShortcakePancakeBreakfastInBed-FB1080SQ_MothersDay_H264.mp4
+Image Alt Text: 
+Prep Time Minutes: 10
+Yields: Servings: 4-6
+Calories: 179
+Instruction 1: Preheat the oven to 400°F (200°C).
+Instruction 2: Place the slices of bacon in the muffin tin, wrapping in a circle.
+Instruction 3: Bake the bacon for 10 minutes.
+Instruction 4: Remove the bacon from the oven and pour out any excess grease, if desired. Crack 1 egg into each of the cups, then sprinkle with salt, pepper, and cheddar cheese.
+Instruction 5: Bake for another 10 minutes, or until the egg yolks reach your desired consistency.
+Instruction 6: Run a knife around the edge of each cup to loosen and remove. Sprinkle with chives, if desired.
+Instruction 7: Enjoy!

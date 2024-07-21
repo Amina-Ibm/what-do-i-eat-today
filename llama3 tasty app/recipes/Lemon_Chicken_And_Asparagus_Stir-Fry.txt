@@ -1,0 +1,12 @@
+Name: Lemon Chicken And Asparagus Stir-Fry
+Description: This lemon chicken and asparagus stir-fry is a quick and easy weeknight dinner that is full of flavor. The tangy lemon sauce pairs perfectly with the tender chicken and crispy asparagus, making it a healthy and satisfying meal. Serve it over rice or quinoa for a complete meal.
+Image URL: https://img.buzzfeed.com/video-api-prod/assets/2ae24afe483c4568b76f487777fc1739/BFV12624_LemonChickenandAsparagusStirFry-ThumbTextless1080.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/d7f408d3286248b9b73eec844d537da6/BFV12624_LemonChickenandAsparagusStirFry-FB1080SQ.mp4
+Image Alt Text: 
+Prep Time Minutes: 10
+Yields: Serves 3-4
+Calories: 190
+Instruction 1: Season the chicken with the salt and pepper. Heat the olive oil in a large pan over medium-high heat. Add the chicken and stir-fry until no longer pink on the outside, about 4 minutes. Add the garlic and continue cooking until the chicken is cooked through, about 4 minutes more.
+Instruction 2: Add the asparagus, lemon zest, and lemon juice and toss to combine. Cook until the asparagus is tender, about 2 minutes, then stir in the soy sauce.
+Instruction 3: Serve the stir-fry over rice with more lemon zest on top.
+Instruction 4: Enjoy!

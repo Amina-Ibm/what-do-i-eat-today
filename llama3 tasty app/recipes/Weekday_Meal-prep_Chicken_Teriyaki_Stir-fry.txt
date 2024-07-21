@@ -1,0 +1,15 @@
+Name: Weekday Meal-prep Chicken Teriyaki Stir-fry
+Description: Weekday meal prep just got easier with this chicken teriyaki stir-fry! It's quick, easy, and full of flavor - the perfect meal to power you through your busy week.
+Image URL: https://img.buzzfeed.com/video-api-prod/assets/3c1cf37334724e45ba15701c598f55ed/BFV12731_WeekdayMeal-PrepChickenAndVeggieTeriyakiStir-FryBowl-ThumbTextless1080.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/4c3ebfeb61094203a102048eb41b421b/BFV12731_WeekdayMeal-PrepChickenAndVeggieTeriyakiStir-FryBowl-FB1080SQ.mp4
+Image Alt Text: 
+Prep Time Minutes: 15
+Yields: Serves 4
+Calories: 370
+Instruction 1: In a pan, cook cut chicken over medium-high heat until almost done. Salt and pepper to taste.
+Instruction 2: Reduce heat to medium and stir in the crushed garlic.
+Instruction 3: Add in the soy sauce, honey, and 1 tablespoon of the sesame seeds. Stir until thickened.
+Instruction 4: Remove the chicken from the pan, leaving the sauce, and add the vegetables to the pan.
+Instruction 5: Cover the pan for several minutes and cook until the vegetables begin to soften, then remove the lid and stir until the sauce is thick again.
+Instruction 6: Split the rice, vegetables, and chicken evenly between 4 containers. Top with a sprinkle of sesame seeds and sliced green onion. Refrigerate for up to 4 days.
+Instruction 7: Enjoy!

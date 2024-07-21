@@ -1,0 +1,21 @@
+Name: Maple-Glazed Salmon
+Description: A delicious and healthy salmon dish with a sweet and savory maple glaze, perfect for a quick and easy weeknight dinner.
+Image URL: https://img.buzzfeed.com/video-api-prod/assets/6f5a8812c15e442f97413d8853b83785/BFV15796_MapleGlazedSalmon_thumb01.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/21ba69b900f1483c97aaffc335d09421/BFV15796_MapleGlazedSalmon_v7.mp4
+Image Alt Text: 
+Prep Time Minutes: 5
+Yields: Servings: 2
+Calories: 466
+Instruction 1: For the salmon, heat vegetable oil on medium-high in a cast-iron skillet.
+Instruction 2: For the broccoli, fill a medium pot halfway with water. Add a dash of salt and start boiling water.
+Instruction 3: In the meantime, whisk together maple syrup, orange juice, soy sauce, garlic, salt, and pepper in a medium bowl.
+Instruction 4: Set aside 2 tablespoons for topping later.
+Instruction 5: Place salmon fillets inside the bowl and make sure each side is covered with sauce.
+Instruction 6: Sear the salmon 2-3 minutes on each side.
+Instruction 7: Brush the tops with the sauce set aside.
+Instruction 8: With the pot of water boiling, add the broccoli and cover lid. Blanch for 2 minutes.
+Instruction 9: Drain under cold water to stop the cooking.
+Instruction 10: In the drained pot of broccoli, stir in butter, soy sauce, red pepper flakes, some lemon zest, and garlic on low heat. Mix until broccoli is well-coated.
+Instruction 11: On each plate, serve a filet of salmon and scoop of broccoli.
+Instruction 12: Top with reserved marinade and sprinkle parsley for garnish.
+Instruction 13: Enjoy!

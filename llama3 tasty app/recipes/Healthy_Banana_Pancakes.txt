@@ -1,0 +1,13 @@
+Name: Healthy Banana Pancakes
+Description: These pancakes are fluffy, moist, and delicious, and best of all, they're healthy! Made with ripe bananas, whole wheat flour, and no added sugar, they're a guilt-free breakfast option.
+Image URL: https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5f6e823f41bb4779829a1486cbbbfa12/BFV18275_HealthyPancakes4Ways_FB1080SQ.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/aaa43e4e98c341b9b1cf35491ab2674b/BFV18275_HealthyPancakes4Ways_FB1080SQ.mp4
+Image Alt Text: 
+Prep Time Minutes: 10
+Yields: Servings: 4-6
+Calories: 179
+Instruction 1: Mash bananas in a large bowl until smooth. Mix in eggs and vanilla until well combined, then mix in oats and cinnamon.
+Instruction 2: Heat a skillet to medium and add in a scoop* of the pancake batter. Smooth out to form an even layer. Cook for about 2-3 minutes until you start to see bubbles releasing from the top of the batter. Flip and cook until the other side is golden brown, about 1-2 minutes.
+Instruction 3: Garnish your pancakes with your favorite toppings! We used banana slices, chopped walnuts & maple syrup.
+Instruction 4: *Note: Use ½ cup (65) for scooping the batter to yield 4 thicker pancakes; Use ⅓ cup (40 g) to yield 6 smaller pancakes.
+Instruction 5: Enjoy!

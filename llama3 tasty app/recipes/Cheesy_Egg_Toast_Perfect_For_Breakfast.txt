@@ -1,0 +1,14 @@
+Name: Cheesy Egg Toast Perfect For Breakfast
+Description: Upgrade your breakfast game with this mouthwatering Cheesy Egg Toast! It's the perfect combination of gooey cheese and fluffy eggs, all nestled on a crispy slice of toast. Say goodbye to boring breakfasts and hello to this scrumptious morning delight!
+Image URL: https://img.buzzfeed.com/video-api-prod/assets/bd2e246b2883465abaad8fb68739f6db/BFV4562_CheesyEggToast-Thumb1080.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/6f48e9afb68547d38e583b960bb3f05d/BFV4562_CheesyEggToast-FB1080SQ.mp4
+Image Alt Text: 
+Prep Time Minutes: 5
+Yields: Yields 1 toast
+Calories: 215
+Instruction 1: Preheat the oven or a toaster oven to 400°F (200°C).
+Instruction 2: With a spoon, press down on the center of the bread to form a pocket. Spread the butter around the edges of the bread, then crack the egg into the pocket.
+Instruction 3: Sprinkle the cheese around the egg, then season with salt and pepper.
+Instruction 4: Bake the toast for 10–15 minutes, depending on how runny you like the yolk.
+Instruction 5: Serve immediately.
+Instruction 6: Enjoy!
