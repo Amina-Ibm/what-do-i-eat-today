@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ recipe.name }}</title>
+</head>
+<body>
+    <h1>{{ recipe.name }}</h1>
+    <p>{{ recipe.description }}</p>
+    <img src="{{ recipe.thumbnail_url }}" alt="{{ recipe.thumbnail_alt_text }}" style="width: 500px;">
+    <p>Prep Time: {{ recipe.prep_time_minutes }} minutes</p>
+    <p>Yields: {{ recipe.yields }}</p>
+    <p>Calories: {{ recipe.calories }}</p>
+    <h2>Instructions</h2>
+    <p>{{ recipe.instructions }}</p>
+    <a href="{{ url_for('index') }}">Back to Recipes</a>
+</body>
+</html>

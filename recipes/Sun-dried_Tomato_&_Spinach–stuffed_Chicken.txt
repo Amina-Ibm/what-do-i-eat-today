@@ -1,0 +1,17 @@
+Name: Sun-dried Tomato & Spinach–stuffed Chicken
+Description: This dish is a savory and satisfying meal with tender chicken breasts stuffed with sun-dried tomatoes, spinach, and creamy cheese, baked to perfection and served with a side of roasted vegetables.
+Image URL: https://img.buzzfeed.com/video-api-prod/assets/df63df44b03c44e491ef7d303dcb6db8/Thumb_1.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/b259ada891b048448b79e50deca780b2/Final.mp4
+Image Alt Text: 
+Prep Time Minutes: 15
+Yields: Servings: 2
+Calories: 1185
+Instruction 1: Preheat oven to 375˚F (190˚C).
+Instruction 2: With a knife, carefully cut a slit in the side of the chicken making sure to not cut all the way through.
+Instruction 3: Season the chicken breasts with olive oil, pepper, and salt.
+Instruction 4: Stuff each chicken breast with a clove of garlic, half of the mozzarella, half of the sun-dried tomatoes, and 1 ounce (30g) of baby spinach. (You may use toothpicks to close the ingredients inside the chicken breasts if desired, just remember to remove them!)
+Instruction 5: In a cast-iron skillet, sear chicken on medium-high heat until all sides are browned.
+Instruction 6: Continue baking in oven for 15-20 minutes, or until internal temperature of the chicken reaches 165˚F (75˚C). Set aside.
+Instruction 7: Heat marinara and spinach in the cast-iron skillet on medium-high heat until spinach is wilted.
+Instruction 8: Serve chicken on top of whole wheat pasta and spinach marinara sauce.
+Instruction 9: Enjoy!

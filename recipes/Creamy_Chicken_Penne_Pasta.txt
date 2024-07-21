@@ -1,0 +1,16 @@
+Name: Creamy Chicken Penne Pasta
+Description: If you're in need of a hug in a bowl, this creamy chicken penne pasta is just the ticket. With tender chicken, perfectly cooked pasta, and a velvety sauce, it's pure comfort in a bowl.
+Image URL: https://img.buzzfeed.com/video-api-prod/assets/641e3c1a5f2a48f29b605bff9cbe72b6/BFV10263_CreamyChickenPenne-Thumb1080.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/9b377d62783847ae8905f3c6bd6eb14c/BFV10263_CreamyChickenPenne-FB1080SQ.mp4
+Image Alt Text: 
+Prep Time Minutes: 15
+Yields: Servings: 4
+Calories: 477
+Instruction 1: In a deep skillet, fry the bacon until crispy. Remove to a paper towel to drain, then chop.
+Instruction 2: In the same skillet, add the chicken and season with salt, pepper, Italian seasoning, and paprika. Cook until no longer pink inside.
+Instruction 3: Add the garlic and cook until softened.
+Instruction 4: Add spinach and tomatoes and cook until the spinach is wilted.
+Instruction 5: Add the cream, Parmesan, an red pepper flakes and bring to a boil.
+Instruction 6: Add the penne and bacon, and stir until fully coated in sauce.
+Instruction 7: Serve with parsley, Parmesan, and red pepper flakes, if desired.
+Instruction 8: Enjoy!

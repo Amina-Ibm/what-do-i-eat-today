@@ -1,0 +1,13 @@
+Name: Chicken Spinach Alfredo Rotini Pasta
+Description: This chicken spinach alfredo rotini pasta is a creamy and comforting dish that is perfect for a family dinner or a date night at home. With tender chicken, fresh spinach, and a rich alfredo sauce, it's a delicious and indulgent meal. Try it today and treat yourself to something special.
+Image URL: https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b15fd97f839340d494cb76a6bdc5b5b0/BFV12435_EnglishRotiniPasta4Ways-FB1080SQ.jpg
+Video URL: https://s3.amazonaws.com/video-api-prod/assets/6b115be19da94c929dac4eb19773c0fe/BFV12435_EnglishRotiniPasta4Ways-FB1080SQ.mp4
+Image Alt Text: 
+Prep Time Minutes: 15
+Yields: Serves 3-4
+Instruction 1: Heat oil in a large pot over high heat.
+Instruction 2: Cook the chicken until no pink is showing.
+Instruction 3: Add the garlic, bacon, spinach, salt, and pepper, cooking until spinach is wilted.
+Instruction 4: Pour in the cream and bring to a boil.
+Instruction 5: Add the pasta, cheese, and parsley, stirring until the pasta is coated evenly.
+Instruction 6: Enjoy!

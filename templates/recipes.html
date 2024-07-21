@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>What do I eat today</title>
+    
+
+</head>
+<body>
+    <h1>What do I eat today?</h1>
+    {% for recipe in recipes %}
+        <div>
+            <h2>{{ recipe.name }}</h2>
+            <p>{{ recipe.description }}</p>
+            {% if recipe.thumbnail_url %}
+                <img src="{{ recipe.thumbnail_url }}" alt="{{ recipe.name }}" style="width: 200px;">
+            {% endif %}
+            {% if recipe.original_video_url %}
+                <p><a href="{{ recipe.original_video_url }}">Watch Video</a></p>
+            {% endif %}
+            <form action="{{ url_for('recipe_detail') }}" method="post" style="display:inline;">
+                {% for key, value in recipe.items() %}
+                    <input type="hidden" name="{{ key }}" value="{{ value }}">
+                {% endfor %}
+                <button type="submit">{{ recipe.name }}</button>
+            </form>
+            
+
+
+
+        </div>
+    {% endfor %}
+    
+</body>
+</html>
