@@ -14,7 +14,8 @@ What Do I Eat Today is a dynamic web application designed to simplify meal plann
 
 # Demo
 
-https://github.com/user-attachments/assets/f181deff-f74a-4105-ac30-850e59602ab8
+https://github.com/user-attachments/assets/0138e0e5-8003-436d-9aa4-eae77a3a1c15
+
 
 
 
