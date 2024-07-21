@@ -1,4 +1,4 @@
 Flask
 requests
-llama-index
+llama-index.core
 together
