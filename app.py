@@ -7,11 +7,13 @@ from together import Together
 
 app = Flask(__name__)
 
-TASTY_API_KEY = '922aa2818dmsh87a963db48df974p1c9419jsndcd5a62b76d5'
-TASTY_API_HOST = 'tasty.p.rapidapi.com'
+TASTY_API_KEY = os.getenv('TASTY_API_KEY')
+TASTY_API_HOST = os.getenv('TASTY_API_HOST')
 TASTY_API_URL = 'https://tasty.p.rapidapi.com/recipes/list'
+TOGETHER_API_KEY = os.getenv('TOGETHER_API_KEY')
 
-client = Together(api_key='b744993071b5d9c4e2da8dd2efb993621f349608cb57c3761f7c723ef365d2ae')
+client = Together(api_key=TOGETHER_API_KEY)
+
 
 def extract_ingredients_with_llama3(user_query):
     response = client.chat.completions.create(
